@@ -4,7 +4,9 @@
 
 - Dummy project 
 - Learning Web Engineering 
-- git merger test
+- Git merge test
+- Test
+- Test2
 
 
 
